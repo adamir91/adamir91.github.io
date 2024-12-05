@@ -1,0 +1,112 @@
+.navbar {
+    background-color: #2929cf;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: #bbbbe6;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+    color: #000080;
+}
+
+form {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"], input[type="password"] {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #000080;
+    border-radius: 12px;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+button {
+    background-color: #000080;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+b {
+    color: #2307c4;
+    text-decoration: none;
+}
+
+b:hover {
+    text-decoration: underline;
+}
+
+a1 {
+    color: #000000;
+    text-decoration: none;
+}
+
+a1:hover {
+    text-decoration: underline;
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.sublinhado {
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-style: dotted;
+}
+
